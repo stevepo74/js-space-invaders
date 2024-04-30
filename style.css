@@ -9,6 +9,7 @@
 .grid div {
     width: 20px;
     height: 20px;
-    border: solid 1px red;
+    border: solid 1px blue;
     box-sizing: border-box;
+    
 }
