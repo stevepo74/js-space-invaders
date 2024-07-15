@@ -8,8 +8,5 @@
 
 .grid div {
     width: 20px;
-    height: 20px;
-    border: solid 1px red;
-    box-sizing: border-box;
-    
+    height: 20px;  
 }
