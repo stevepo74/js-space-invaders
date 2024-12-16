@@ -27,3 +27,5 @@ function draw() {
 }
 
 draw()
+
+squares[4].classList.add('shooter')
